@@ -1,4 +1,4 @@
-vachesa<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -10,7 +10,7 @@ vachesa<!DOCTYPE html>
   <!-- Hero Section -->
   <header class="hero">
     <div class="hero-content">
-      <h1>namaste bah epudu enduku vasthundi </h1>
+      <h1>namaste bah epudu enduku vasthundi TELSA </h1>
       <p>Transforming spaces into your dream home</p>
       <a href="#contact" class="btn">Get Started</a>
     </div>
